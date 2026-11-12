@@ -1,7 +1,7 @@
 {
   "format": "officina-json",
-  "version": 2,
-  "updated_at": "2026-11-11T14:14:29.394Z",
+  "version": 3,
+  "updated_at": "2026-11-12T06:50:04.596Z",
   "items": [
     {
       "id": "32c96269-140d-4bc0-a70e-bda7440d74a5",
@@ -21,6 +21,19 @@
       "category": "Viti",
       "qty": 100,
       "location": "",
+      "unit": "pz",
+      "description": "",
+      "photo": ""
+    },
+    {
+      "id": "1807df38-0598-41e7-b012-6abde85f4278",
+      "code": "M001",
+      "name": "gomma",
+      "category": "Altro",
+      "section": "Miscellanea",
+      "hasLabel": true,
+      "qty": 2,
+      "location": "garage",
       "unit": "pz",
       "description": "",
       "photo": ""
