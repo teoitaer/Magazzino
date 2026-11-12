@@ -158,3 +158,4 @@ refresh();
 loadRemote(false).catch(e=>console.warn('Sync iniziale:',e.message));
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&!git.busy&&!['editor','detail','camera','labels','syncSettings'].some(id=>$(id).open))loadRemote(false).catch(e=>console.warn(e))});
 </script></body></html>
+
